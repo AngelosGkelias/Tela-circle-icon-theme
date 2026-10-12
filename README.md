@@ -44,3 +44,5 @@ By default, only **the `standard` variant** is selected.
 ![Tela](preview.png)
 
 ![Tela-light](preview-light.png)
+
+Added icons for antigravity, antigravity ide, ltspice, pulseview.
